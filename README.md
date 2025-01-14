@@ -1,4 +1,4 @@
-<img src="https://github.com/codexart-lab/codexart-lab/blob/main/tanjiro.mp4" alt="Banner">
+<img src="https://raw.githubusercontent.com/codexart-lab/codexart-lab/refs/heads/main/ezgif-6-9ccfa809fa.gif" alt="Banner">
 # 💫 About Me:
 
 🔭 I’m currently working on Html ,Css & Javascript.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Javascript <br>💬 Ask me about<br>⚡ Fun fact
