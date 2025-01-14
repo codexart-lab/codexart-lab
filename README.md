@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/codexart-lab/codexart-lab/refs/heads/main/ezgif-6-9ccfa809fa.gif" alt="Banner">
-## 💫 About Me:
-Hey I'm Codex...
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HEY+I'M+CODEX..)](https://git.io/typing-svg)
+#💫 About Me:
+
+
 
 🔭 I’m currently working on Html ,Css & Javascript.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Javascript <br>💬 Ask me about<br>⚡ Fun fact
 <img src="https://github.com/codexart-lab/codexart-lab/blob/main/coder.gif" alt="coder">
