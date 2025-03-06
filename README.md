@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/codexart-lab/codexart-lab/refs/heads/main/ezgif-6-9ccfa809fa.gif" alt="Banner">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2CI'm+Codex+...;Anime+Lover..)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+Break+Firewall+%2Cnot++%E2%9D%A4%EF%B8%8F.)](https://git.io/typing-svg)
 
 #💫 About Me:
