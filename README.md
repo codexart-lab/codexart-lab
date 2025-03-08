@@ -8,30 +8,28 @@
   <a href='mailto: atmostechnexa@gmail.com' target="_blank"><img alt='Email' src='https://img.shields.io/badge/Email-100000?style=flat&logo=gmail&logoColor=FF0000&labelColor=black&color=black'/></a>
   <a href='https://t.me/pheonixion' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/Telegram-100000?style=flat&logo=Telegram&logoColor=FF0000&labelColor=black&color=black'/></a>
   <a href='https://codexisme.is-a.dev' target="_blank"><img alt='Website' src='https://img.shields.io/badge/Website-100000?style=flat&logo=framer&logoColor=FF0000&labelColor=black&color=black'/></a><br><br> </p>
-
-#💫 About Me:
-
-🔭 I’m currently working on Html ,Css & Javascript.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Javascript <br>💬 Ask me about<br>⚡ Fun fact
+  
 <img src="https://github.com/codexart-lab/codexart-lab/blob/main/coder.gif" alt="coder">
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
+<a href='https://javascript.com' target="_blank"><img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-100000?style=flat&logo=javascript&logoColor=FF8000&labelColor=black&color=black'/></a>
+  <a href='https://en.wikipedia.org/wiki/CSS' target="_blank"><img alt='CSS' src='https://img.shields.io/badge/CSS-100000?style=flat&logo=css3&logoColor=FF8000&labelColor=black&color=black'/></a>
+  <a href='https://en.wikipedia.org/wiki/HTML' target="_blank"><img alt='HTML' src='https://img.shields.io/badge/HTML-100000?style=flat&logo=html5&logoColor=FF8000&labelColor=black&color=black'/></a>
+<a href='https://render.com' target="_blank"><img alt='Render' src='https://img.shields.io/badge/Python-100000?style=flat&logo=python&logoColor=FF0000&labelColor=black&color=black'/></a>
+<a href='https://python.org' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Render-100000?style=flat&logo=python&logoColor=FF0000&labelColor=black&color=black'/></a>
+<h1 align="center" size="200">
+  <a href="#Gif"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="25px"></a>
+  Codex's Stats
+  <a href="#Gif"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="25px"></a>
+</h1><br><br>
   <a href="#GithubStat"><img src="https://github-stats-alpha.vercel.app/api?username=codexart-lab&cc=000&tc=fff&ic=FF0000&bc=000" align="center"><br><br></a>
   <a href="#ViewsStat"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodexart-lab&count_bg=%23000000&title_bg=%23FF0000&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/></a><br><br>
   <a href="#StreakStat"><img src="https://streak-stats.demolab.com?user=codexart-lab&mode=wee&theme=youtube-dark&border_radius=6.3" alt="GitHub Streak" /></a><br><br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codex-lab&theme=ambient_gradient&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=codex-lab&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=codex-lab&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=codexart-lab&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
