@@ -3,6 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2CI'm+Codex+...;Anime+Lover..)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+Break+Firewall+%2Cnot++%E2%9D%A4%EF%B8%8F.)](https://git.io/typing-svg)
 
+</h1><br><br>
+<p align="center">
+  <a href='mailto: atmostechnexa@gmail.com' target="_blank"><img alt='Email' src='https://img.shields.io/badge/Email-100000?style=flat&logo=gmail&logoColor=FF0000&labelColor=black&color=black'/></a>
+  <a href='https://t.me/pheonixion' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/Telegram-100000?style=flat&logo=Telegram&logoColor=FF0000&labelColor=black&color=black'/></a>
+  <a href='https://codexisme.is-a.dev' target="_blank"><img alt='Website' src='https://img.shields.io/badge/Website-100000?style=flat&logo=framer&logoColor=FF0000&labelColor=black&color=black'/></a><br><br> </p>
+
 #💫 About Me:
 
 🔭 I’m currently working on Html ,Css & Javascript.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Javascript <br>💬 Ask me about<br>⚡ Fun fact
