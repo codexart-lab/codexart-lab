@@ -23,7 +23,10 @@
   <a href="#GithubStat"><img src="https://github-stats-alpha.vercel.app/api?username=codexart-lab&cc=000&tc=fff&ic=FF0000&bc=000" align="center"><br><br></a>
   <a href="#ViewsStat"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodexart-lab&count_bg=%23000000&title_bg=%23FF0000&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/></a><br><br>
   <a href="#StreakStat"><img src="https://streak-stats.demolab.com?user=codexart-lab&mode=wee&theme=youtube-dark&border_radius=6.3" alt="GitHub Streak" /></a><br><br>
+<h3 align="left">Activity:</h3>
 
+![Codex's Graph](https://github-readme-activity-graph.vercel.app/graph?username=codexart-lab&custom_title=Codex's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
