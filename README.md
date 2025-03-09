@@ -13,18 +13,26 @@
 <a href='https://javascript.com' target="_blank"><img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-100000?style=flat&logo=javascript&logoColor=FF8000&labelColor=black&color=black'/></a>
   <a href='https://en.wikipedia.org/wiki/CSS' target="_blank"><img alt='CSS' src='https://img.shields.io/badge/CSS-100000?style=flat&logo=css3&logoColor=FF8000&labelColor=black&color=black'/></a>
   <a href='https://en.wikipedia.org/wiki/HTML' target="_blank"><img alt='HTML' src='https://img.shields.io/badge/HTML-100000?style=flat&logo=html5&logoColor=FF8000&labelColor=black&color=black'/></a>
-<a href='https://render.com' target="_blank"><img alt='Render' src='https://img.shields.io/badge/Python-100000?style=flat&logo=python&logoColor=FF0000&labelColor=black&color=black'/></a>
-<a href='https://python.org' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Render-100000?style=flat&logo=python&logoColor=FF0000&labelColor=black&color=black'/></a>
-<a href='https://www.cloudflare.com' target="_blank">
+   <a href='https://www.cloudflare.com' target="_blank">
   <img alt='Cloudflare' src='https://img.shields.io/badge/Cloudflare-100000?style=flat&logo=cloudflare&logoColor=F38020&labelColor=black&color=black'/>
 </a>
-
-<a href='https://www.netlify.com' target="_blank">
-  <img alt='_Netlify' src='https://img.shields.io/badge/Netlify-100000?style=flat&logo=netlify&logoColor=00C7B7&labelColor=black&color=black'/>
+    <a href='https://www.netlify.com' target="_blank">
+  <img alt='Netlify' src='https://img.shields.io/badge/Netlify-100000?style=flat&logo=netlify&logoColor=00C7B7&labelColor=black&color=black'/>
 </a>
-
-<a href='https://www.mongodb.com' target="_blank">
+    <a href='https://www.mongodb.com' target="_blank">
   <img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-100000?style=flat&logo=mongodb&logoColor=47A248&labelColor=black&color=black'/>
+</a>
+    <a href='https://render.com' target="_blank">
+  <img alt='Render' src='https://img.shields.io/badge/Render-100000?style=flat&logo=render&logoColor=46E3B7&labelColor=black&color=black'/>
+</a>
+    <a href='https://www.docker.com' target="_blank">
+  <img alt='Docker' src='https://img.shields.io/badge/Docker-100000?style=flat&logo=docker&logoColor=2496ED&labelColor=black&color=black'/>
+</a>
+    <a href='https://openai.com' target="_blank">
+  <img alt='OpenAI' src='https://img.shields.io/badge/OpenAI-100000?style=flat&logo=openai&logoColor=412991&labelColor=black&color=black'/>
+</a>
+    <a href='https://deepseek.com' target="_blank">
+  <img alt='0DeepSeek' src='https://img.shields.io/badge/DeepSeek-100000?style=flat&logo=deepseek&logoColor=00A67E&labelColor=black&color=black'/>
 </a>
 <h1 align="center" size="200">
   <a href="#Gif"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="25px"></a>
