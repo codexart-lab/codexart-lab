@@ -44,7 +44,7 @@
   <a href="#StreakStat"><img src="https://streak-stats.demolab.com?user=codexart-lab&mode=wee&theme=youtube-dark&border_radius=6.3" alt="GitHub Streak" /></a><br><br>
 <h3 align="left">Activity:</h3>
 
-![Codex's Graph](https://github-readme-activity-graph.vercel.app/graph?username=codexart-lab&custom_title=Codex's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Codex's Graph](https://github-readme-activity-graph.vercel.app/graph?username=codexart-lab&custom_title=Codex's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=D2042D&line=D2042D&point=D2042DF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
