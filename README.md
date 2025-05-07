@@ -4,7 +4,7 @@
 
 </h1><br><br>
 <p align="center">
-  <a href='mailto: atmostechnexa@gmail.com' target="_blank"><img alt='Email' src='https://img.shields.io/badge/Email-100000?style=flat&logo=gmail&logoColor=FF0000&labelColor=black&color=black'/></a>
+  <a href='mailto: contact@codexlab.ggff.net' target="_blank"><img alt='Email' src='https://img.shields.io/badge/Email-100000?style=flat&logo=gmail&logoColor=FF0000&labelColor=black&color=black'/></a>
   <a href='https://t.me/pheonixion' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/Telegram-100000?style=flat&logo=Telegram&logoColor=FF0000&labelColor=black&color=black'/></a>
   <a href='https://codexisme.is-a.dev' target="_blank"><img alt='Website' src='https://img.shields.io/badge/Website-100000?style=flat&logo=framer&logoColor=FF0000&labelColor=black&color=black'/></a><br><br> </p>
   
